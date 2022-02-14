@@ -1,0 +1,60 @@
+body {
+    text-align: center;
+    font-family: 'Brush Script MT', cursive;
+}
+
+p {
+    font-size: 16px;
+}
+
+#colorDiv {
+  width: 500px;
+  height: 100px;
+  margin: auto;
+  border: 3px solid black;
+}
+
+#start-button {
+   background-color: black;
+   color: white; 
+   padding: 10px;
+   padding-right: 30px;
+   padding-left: 30px;
+   font-size: 1.2rem;
+}
+
+#submit-button {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    font-size: 1.2rem;
+}
+
+#start-button:hover {
+    background-color: white;
+    color: black;
+}
+
+#submit-button:hover {
+    background-color: white;
+    color: black;
+}
+
+#start-container {
+    padding: 10px;
+}
+
+#input-container {
+    padding: 10px;
+}
+
+#submit-container {
+    padding: 10px;
+}
+
+#input {
+    padding: 10px;
+    width: 350px;
+}
